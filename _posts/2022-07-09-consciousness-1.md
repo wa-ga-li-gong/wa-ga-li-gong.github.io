@@ -8,55 +8,15 @@ categories: media
 
 *This post will be the first of many that clarifies how I currently think about consciousness — what it is, why it’s important, and how to study it scientifically.*
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+As there are different uses of the word “consciousness”, I should start by stating that the definition that interests me most is what philosophers might call “phenomenal consciousness”. This was to differentiate it from other uses, for example, the commonsense equating of consciousness with wakefulness. Under the consciousness-as-wakefulness definition, you can be said to lose consciousness when you sleep, and regain it when you wake. But phenomenal consciousness can be pointed out by the fact that during sleep, we’re conscious of sights, sounds, and sensations when we dream [1]. 
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+One useful tool to start illuminating questions of consciousness is to imagine a functional duplicate of yourself — that is, an identical clone in all regards but one; the clone lacks an inner life. This clone would drive a car, go to work, and talk with your friends, but there would be nothing *that it is like* to be that being (Nagel 1974). They would yell out if stabbed, but wouldn’t actually feel any pain, and would even say they were conscious if asked. Whether or not it’s possible for this clone to exist given the rules of our universe is unknown, but the fact that philosophical zombies, as they are called, are conceptually possible, raises the question of how physical things (e.g. neurons, electrical impulses, etc.) relate to conscious things (e.g. the feeling of seeing red) [2].
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+In addition to illuminating the Hard Problem (Chalmers 1995), a variant of this zombie thought experiment elucidates why the fact of subjective experience is so personally compelling to me. In his book “Being You”, Anil Seth puts it like this:
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
+> Imagine that a future version of me, perhaps not so far away, offers you the deal of a lifetime. I can replace your brain with a machine that is its equal in every way, so that from the outside, nobody could tell the difference. This new machine has advantages—it is immune to decay, and perhaps it will allow you to live forever. But there’s a catch. Since even future-me is not sure how real brains give rise to consciousness, I can’t guarantee that you will have any conscious experiences at all, should you take up this offer.
+> 
 
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
+The hesitation that we feel from taking the offer in the Ghost in The Shell thought experiment clearly tells to me that consciousness is the basis for anything *mattering* [3]
 
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
-
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-## Gists
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
-
-## Images
-
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
-wa
+![cyberpunk-ghost-in-the-shell](https://user-images.githubusercontent.com/49765705/178160777-36e6f47e-6d0e-4128-ad8d-d0b883663d0c.gif)
