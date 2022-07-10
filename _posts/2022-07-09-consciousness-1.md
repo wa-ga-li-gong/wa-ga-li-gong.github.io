@@ -19,4 +19,12 @@ In addition to illuminating the Hard Problem (Chalmers 1995), a variant of this 
 
 The hesitation that we feel from taking the offer in the Ghost in The Shell thought experiment clearly tells to me that consciousness is the basis for anything *mattering* [3]
 
-![cyberpunk-ghost-in-the-shell](https://user-images.githubusercontent.com/49765705/178160777-36e6f47e-6d0e-4128-ad8d-d0b883663d0c.gif)
+<p align="center">
+  <img width="80%" src="https://user-images.githubusercontent.com/49765705/178160777-36e6f47e-6d0e-4128-ad8d-d0b883663d0c.gif" alt="Ghost In The Shell">
+</p>
+
+[1] Short of a true consciousness meter, we really don’t know to what degree phenomenal consciousness might be retained, even in dreamless sleep or coma. It’s hard to differentiate a lack of experiencing something with being unable to remember it
+
+[2] If it were possible for philosophical zombies to exist, then it would seem to suggest that consciousness has no function; it is an epiphenomenon.
+
+[3] There is a debate over whether phenomenal consciousness is *sufficient* for moral status, and whether you additionally need to have “affective consciousness”, that is, the capacity to experience feelings. This capacity is sometimes this is also called sentience. [David Chalmers argues that phenomenal consciousness is all we need for moral status](https://ghostarchive.org/varchive/ZP3ReZHGn7E).
