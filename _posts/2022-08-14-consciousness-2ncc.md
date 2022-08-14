@@ -15,13 +15,13 @@ That being said, “correlates” was likely adopted for its theoretical neutral
 
 The current recipe: an NCC is the “**minimal** set of neural events jointly **sufficient** for a specific conscious experience (given the appropriate enabling conditions)” (Koch 2004: 97). 
 
-So why must the criteria be neural events that are “sufficient”, instead of “necessary”, or “necessary and sufficient”? Happily, by discussing why not “necessary” [2], we can feed two birds with one scone (or two bois with one bone), because the following line of reasoning rules out the “necessary and sufficient” as well. The problem is this -- we don't know beforehand whether it's possible for a single conscious experience, like the taste of a good scone, to be supported by **redundant neural events** (i.e multiple brain processes redundantly giving rise to a single consicous experience). If this is the case, such that each event can independently result in the conscious taste of the aforementioned scone, disrupting one process but sparing the other(s) will not lead to disruption of this gustatory experience. Therefore, you can’t call that individual neural events “necessary”, even though it’s perfectly reasonable to think of it as an NCC [3]. 
+So why must the criteria be neural events that are “sufficient”, instead of “necessary” or “necessary *and* sufficient”? Happily, by discussing why not “necessary” [2], we can feed two birds with one scone (or two bois with one bone), because the following line of reasoning rules out the “necessary and sufficient” as well. The problem is this -- we don't know beforehand whether it's possible for a single conscious experience, like the taste of a good scone, to be supported by **redundant neural events** (i.e multiple brain processes redundantly giving rise to a single consicous experience). If this is the case, such that each event can independently result in the conscious taste of the aforementioned scone, disrupting one process but sparing the other(s) will not lead to disruption of this gustatory experience. Therefore, you can’t call that individual neural events “necessary”, even though it’s perfectly reasonable to think of it as an NCC [3]. 
 
-<p align="center">
+<p align="right">
   <img width="500" src="https://user-images.githubusercontent.com/49765705/184532078-07da33b7-4e63-491b-b750-eec15d315aea.png" alt="2 birds, 1 scone">
 </p>
 
-<p align="center">
+<p align="right">
   <img width="500" src="https://user-images.githubusercontent.com/49765705/184532086-6bd17f81-2dba-4d2a-8970-1eeb74b0b8d1.png" alt="2 bois, 1 bone">
 </p>
 
