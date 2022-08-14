@@ -7,7 +7,7 @@ categories: media
 
 In 1990, Francis Crick (of double helix fame) and Christof Koch (dog lover and current director of the Allen Institute for Brain Science) set off the search for the holy grail of consciousness neuroscience; the neural correlates of consciousness (NCCs). Whoever got there first would retain everlasting glory in the hallowed pages of Nature and be first in line for eternal existence via mind upload.
 
-Okay, so the second part I’m not so sure, but it does seem like something worth spending a lifetime seeking. More on that later — let’s clarify what exactly an NCC is.
+Okay, so the second part I’m not so sure, but the quest does seem super exciting. More on that later — let’s clarify what exactly an NCC is.
 
 The first thing to note is that calling the grail the neural “correlate” seems on its face a bit flaccid. Mere correlation is not usually the ultimate object of desire, scientific or otherwise. And as we all know from Statistics 101, ice cream sales correlate with shark attacks, but this statistical observation says nothing about whether ice cream sales *cause* shark attacks - maybe it’s the other way around, or maybe both are caused by a third variable [1]. And of course, it also doesn’t speak to whether one is necessary or sufficient for the other.
 
