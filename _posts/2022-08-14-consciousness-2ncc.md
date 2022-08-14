@@ -25,9 +25,9 @@ So why is the criteria neural events that are “sufficient”, instead of “ne
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/49765705/184532086-6bd17f81-2dba-4d2a-8970-1eeb74b0b8d1.png" alt="2 bois, 1 bone">
 </p>
+
 > Two birds with one scone, or two bois with one bone, the moral is the same. Removing one won’t result in food left uneaten.
 >
-
 
 And why minimally **sufficient, instead of just sufficient? Because adopting this criteria results in an unbounded definition. It allows for something like the entire brain to be considered an NCC… and entire brain minus 1 neuron, and so forth. The logical conclusion is that we should shave off as much excess neural activity/regions/events as possible, so minimal sufficiency is the criteria what we land on
 
@@ -36,7 +36,7 @@ Historically, the start of the NCC search in the 90s coincided with advances in 
 
 To zoom out — the universe’s greatest mysteries present themselves in the form of a trinity: the mystery of existence (something from nothing), life (living from non-living), and consciousness (conscious from unconscious). Each affords us the opportunity to be stupefied by the sheer weight of its spiritual significance, but the search for the NCC grounds the last mystery in visible, tangible science, offering a way forward.
 
-
+---
 [1] this is known as the principle of common cause (Reichenbach 1956) 
 
 [2] The simple test for whether something is necessary: ‘if not X, then not Y’.
