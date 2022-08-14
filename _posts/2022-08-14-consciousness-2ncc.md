@@ -9,7 +9,6 @@ In 1990, Francis Crick (of double helix fame) and Christof Koch (dog lover and c
 
 Okay, so the second part I’m not so sure, but it does seem like something worth spending a lifetime seeking. More on that later — let’s clarify what exactly an NCC is.
 
-
 The first thing to note is that calling the grail the neural “correlate” seems on its face a bit flaccid. Mere correlation is not usually the ultimate object of desire, scientific or otherwise. And as we all know from Statistics 101, ice cream sales correlate with shark attacks, but this statistical observation says nothing about whether ice cream sales *cause* shark attacks - maybe it’s the other way around, or maybe both are caused by a third variable [1]. And of course, it also doesn’t speak to whether one is necessary or sufficient for the other.
 
 That being said, “correlates” was likely adopted for its theoretical neutrality and consequent palatability. While the term “NCC” has remained unchanged since its inception, the current agreed-upon definition has been refined over the years, like any good menu item. 
@@ -30,7 +29,6 @@ So why is the criteria neural events that are “sufficient”, instead of “ne
 >
 
 And why minimally **sufficient, instead of just sufficient? Because adopting this criteria results in an unbounded definition. It allows for something like the entire brain to be considered an NCC… and entire brain minus 1 neuron, and so forth. The logical conclusion is that we should shave off as much excess neural activity/regions/events as possible, so minimal sufficiency is the criteria what we land on
-
 
 Historically, the start of the NCC search in the 90s coincided with advances in neuroimaging and recording technology, as well as the entrance of Nobel prize scientists, like Francis Crick and Gerald Edelman, into the fray. The subsequent flood of research has established the NCC project as a robust space for inquiry and helped to legitimize consciousness science as a whole. 
 
