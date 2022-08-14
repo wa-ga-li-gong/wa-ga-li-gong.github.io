@@ -43,4 +43,4 @@ However, programs like the search for the neural correlates of consciousness hel
 
 [3] The logic of this argument may apply if neuroplasticity is quick enough as well — if another neural process or region can take over for a disrupted target region in supporting a single conscious experience, we can’t technically say that the target region is *necessary* for that conscious experience.
 
-[4] A certain flavor of panpsychism would of course reject the premise of unconscious things giving rise to conscious things
+[4] A certain flavor of panpsychism would of course reject the premise of unconscious things giving rise to conscious things, since perhaps consciousness is a fundamental property of the universe, like the fundamental particles of physics.
