@@ -22,7 +22,7 @@ The hesitation that we feel from taking the offer in the Ghost in The Shell thou
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/49765705/178160777-36e6f47e-6d0e-4128-ad8d-d0b883663d0c.gif" alt="Ghost In The Shell">
 </p>
-
+---
 [1] Short of a true consciousness meter, we really don’t know to what degree phenomenal consciousness might be retained, even in dreamless sleep or coma. It’s hard to differentiate a lack of experiencing something with being unable to remember it
 
 [2] If it were possible for philosophical zombies to exist, then it would seem to suggest that consciousness has no function; it is an epiphenomenon.
