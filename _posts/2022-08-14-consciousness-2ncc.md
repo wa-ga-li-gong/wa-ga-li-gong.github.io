@@ -28,7 +28,7 @@ So why is the criteria neural events that are “sufficient”, instead of “ne
 > Two birds with one scone, or two bois with one bone, the moral is the same. Removing one won’t result in food left uneaten.
 >
 
-And why minimally **sufficient, instead of just sufficient? Because adopting this criteria results in an unbounded definition. It allows for something like the entire brain to be considered an NCC… and entire brain minus 1 neuron, and so forth. The logical conclusion is that we should shave off as much excess neural activity/regions/events as possible, so minimal sufficiency is the criteria what we land on
+And why minimally sufficient, instead of just sufficient? Because adopting this criteria results in an unbounded definition. It allows for something like the entire brain to be considered an NCC… and entire brain minus 1 neuron, and so forth. The logical conclusion is that we should shave off as much excess neural activity/regions/events as possible, so minimal sufficiency is the criteria what we land on
 
 Historically, the start of the NCC search in the 90s coincided with advances in neuroimaging and recording technology, as well as the entrance of Nobel prize scientists, like Francis Crick and Gerald Edelman, into the fray. The subsequent flood of research has established the NCC project as a robust space for inquiry and helped to legitimize consciousness science as a whole. 
 
