@@ -32,7 +32,7 @@ Historically, the start of the NCC search in the 90s coincided with advances in 
 
 To zoom out briefly — the universe’s greatest mysteries present themselves in triune: the mystery of existence (something from nothing), life (living from non-living), and consciousness (conscious from unconscious)[4]. Oftentimes, the weight of their sheer significance can have a stupefying effect, and additionally for consciousness, lead to endless philosophical debates. 
 
-However, programs like the search for the neural correlates of consciousness helps to contexualize the role that philosophical debate and the feeling of significance and should play instead, which is that of navigation and fuel for the journey, respectively. The NCC project provides us a vehicle to get *there*.
+However, programs like the search for the neural correlates of consciousness helps to contexualize the role that philosophical debate and the feeling of significance should play instead, which is that of navigation and fuel for the journey, respectively. The NCC project provides us a vehicle to get *there*.
 
 ---
 [1] this is known as the principle of common cause (Reichenbach 1956) 
